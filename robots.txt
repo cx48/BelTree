@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://cx48.github.io/BelTree/sitemap.xml
