@@ -1,5 +1,5 @@
 # The URL the site will be built for
-title = "BelResumé"            # Your site name
+title = "BelTree"            # Your site name
 description = "Alex | Frontend Web Developer"  # Shown in meta and hero
 base_url = "https://cx48.github.io/BelTree"
 
