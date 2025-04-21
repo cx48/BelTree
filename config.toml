@@ -1,9 +1,7 @@
 # The URL the site will be built for
 title = "BelTree"            # Your site name
 description = "Alex | Frontend Web Developer"  # Shown in meta and hero
-base_url = "https://cx48.github.io/BelTree"
-
-# base_url = "https://yourdomain.com"
+base_url = "https://yourdomain.com"
 
 # Use base_url present below if deploying using GitHub Pages
 # base_url = "https://yourusername.github.io/BelResume"
