@@ -1,5 +1,5 @@
 name = "BelTree"
-description = "A clean and elegant Linktree alternative"
+description = "A clean and elegant Linktree alternative that offers customizable links and a user-friendly design"
 tags = ['minimal']
 license = "MIT"
 homepage = "https://github.com/cx48/BelTree"
