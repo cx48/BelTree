@@ -8,6 +8,8 @@ Powered by [Zola](https://getzola.org/). Styled with Tailwind CSS & Font Awesome
 
 ## Preview
 
+[BelTree](https://cx48.github.io/BelTree/) can be deployed for free using GitHub Pages or Vercel
+
 ### Mobile View
 
 #### Deep Ocean | Mint Fresh | Sunset
@@ -79,7 +81,7 @@ Powered by [Zola](https://getzola.org/). Styled with Tailwind CSS & Font Awesome
    ```bash
    public
    ```
-
+   
 4. Set **Framework Preset** to `Other`
 
 5. Click **Deploy**
@@ -87,3 +89,11 @@ Powered by [Zola](https://getzola.org/). Styled with Tailwind CSS & Font Awesome
 Zola will build and serve from the `public/` folder automatically on every push
 
 ## Customization Guide will be added soon!
+
+
+## Get in Touch
+
+Have feedback, questions, or just want to say hello?  
+Feel free to [open an issue](https://github.com/cx48/BelTree/issues) or reach out directly:
+
+> Check my GitHub profile for contact links
