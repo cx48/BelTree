@@ -8,6 +8,12 @@ Powered by [Zola](https://getzola.org/). Styled with Tailwind CSS & Font Awesome
 
 ## Preview
 
+### Mobile View
+
+#### Deep Ocean | Mint Fresh | Sunset
+
+<img src="static/screenshots/mobile-deep-ocean.png" alt="BelTree Mobile View | Deep Ocean" style="max-width: 400px; height: 800px;"> &nbsp; <img src="static/screenshots/mobile-mint-fresh.png" alt="BelTree Mobile View | Mint Fresh" style="max-width: 400px; height: 800px;"> &nbsp; <img src="static/screenshots/mobile-sunset.png" alt="BelTree Mobile View | Sunset" style="max-width: 400px; height: 800px;">
+
 ### Desktop View
 
 #### Deep Ocean
@@ -21,9 +27,5 @@ Powered by [Zola](https://getzola.org/). Styled with Tailwind CSS & Font Awesome
 #### Sunset
 
 ![BelTree Desktop View | Sunset](static/screenshots/desktop-sunset.png)
-
-### Mobile View
-
-<img src="static/screenshots/mobile-deep-ocean.png" alt="BelTree Mobile View | Deep Ocean" style="max-width: 375px; height: auto; margin-right:10px;"> <img src="static/screenshots/mobile-mint-fresh.png" alt="BelTree Mobile View | Mint Fresh" style="max-width: 375px; height: auto; margin-right:10px;"> <img src="static/screenshots/mobile-sunset.png" alt="BelTree Mobile View | Sunset" style="max-width: 375px; height: auto margin-right:10px;">
 
 ## This readme will be completed soon!
