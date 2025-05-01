@@ -14,21 +14,21 @@ Powered by [Zola](https://getzola.org/). Styled with Tailwind CSS & Font Awesome
 
 #### Deep Ocean | Mint Fresh | Sunset
 
-<img src="static/screenshots/mobile-deep-ocean.png" alt="BelTree Mobile View | Deep Ocean" style="max-width: 400px; height: 800px;"> &nbsp; <img src="static/screenshots/mobile-mint-fresh.png" alt="BelTree Mobile View | Mint Fresh" style="max-width: 400px; height: 800px;"> &nbsp; <img src="static/screenshots/mobile-sunset.png" alt="BelTree Mobile View | Sunset" style="max-width: 400px; height: 800px;">
+<img src="https://raw.githubusercontent.com/cx48/BelTree/refs/heads/main/static/screenshots/mobile-deep-ocean.png" alt="BelTree Mobile View | Deep Ocean" style="max-width: 400px; height: 800px;"> &nbsp; <img src="https://raw.githubusercontent.com/cx48/BelTree/refs/heads/main/static/screenshots/mobile-mint-fresh.png" alt="BelTree Mobile View | Mint Fresh" style="max-width: 400px; height: 800px;"> &nbsp; <img src="https://raw.githubusercontent.com/cx48/BelTree/refs/heads/main/static/screenshots/mobile-sunset.png" alt="BelTree Mobile View | Sunset" style="max-width: 400px; height: 800px;">
 
 ### Desktop View
 
 #### Deep Ocean
 
-![BelTree Desktop View | Deep Ocean](static/screenshots/desktop-deep-ocean.png)
+![BelTree Desktop View | Deep Ocean](https://raw.githubusercontent.com/cx48/BelTree/refs/heads/main/static/screenshots/desktop-deep-ocean.png)
 
 #### Mint Fresh
 
-![BelTree Desktop View | Mint Fresh](static/screenshots/desktop-mint-fresh.png)
+![BelTree Desktop View | Mint Fresh](https://raw.githubusercontent.com/cx48/BelTree/refs/heads/main/static/screenshots/desktop-mint-fresh.png)
 
 #### Sunset
 
-![BelTree Desktop View | Sunset](static/screenshots/desktop-sunset.png)
+![BelTree Desktop View | Sunset](https://raw.githubusercontent.com/cx48/BelTree/refs/heads/main/static/screenshots/desktop-sunset.png)
 
 ## Quick Start
 
