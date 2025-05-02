@@ -4,7 +4,7 @@
 
 Powered by [Zola](https://getzola.org/). Styled with Tailwind CSS & Font Awesome.
 
-> “Bel” in French means beautiful — this is your beautiful resumé!
+> “Bel” in French means beautiful — this is your Beautiful Linktree!
 
 ## Preview
 
