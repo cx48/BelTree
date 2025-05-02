@@ -2,6 +2,7 @@ name = "BelTree"
 description = "A clean and elegant Linktree alternative that offers customizable links and a user-friendly design"
 license = "MIT"
 homepage = "https://github.com/cx48/BelTree"
+tags = ['minimal','linktree']
 min_version = "0.20.0"
 
 # Live demo URL
